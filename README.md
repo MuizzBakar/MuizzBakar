@@ -11,7 +11,7 @@ I'm a Software Engineer currently running a Frontend Engineering degree program 
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://github.com/MuizzBakar/) and contact me by emailing mailtomuizz.bakar@gmail.com.
+- 📫 You can [view my resume](https://github.com/MuizzBakar/) and contact me by emailing muizz.bakar@gmail.com.
 
 ---
 
