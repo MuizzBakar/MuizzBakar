@@ -13,8 +13,6 @@ I'm a Software Engineer currently running a Frontend Engineering degree program 
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://github.com/MuizzBakar/) and contact me by emailing muizz.bakar@gmail.com.
 
----
-
 ### Skills
 
 <p align="left">
@@ -24,6 +22,8 @@ I'm a Software Engineer currently running a Frontend Engineering degree program 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 
 </p>
+
+---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuizzBakar&show_icons=true&include_all_commits=true&hide_border=true" alt="Muizz's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuizzBakar&langs_count=8&layout=compact&hide_border=true" alt="Muizz's GitHub stats" /> |
 | ------------- | ------------- |
